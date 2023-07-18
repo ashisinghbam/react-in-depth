@@ -1,0 +1,17 @@
+.apples-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-top: 4rem;
+}
+
+button {
+  cursor: pointer;
+}
+
+button img {
+  width: 40px;
+  
+}
