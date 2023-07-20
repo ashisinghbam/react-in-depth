@@ -1,0 +1,18 @@
+{
+  "name": "02_transform_jsx_with_babel",
+  "version": "1.0.0",
+  "description": "JSX and Babel",
+  "main": "babel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel ./script.js -d lib"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.22.9",
+    "@babel/core": "^7.22.9",
+    "@babel/preset-react": "^7.22.5"
+  }
+}
