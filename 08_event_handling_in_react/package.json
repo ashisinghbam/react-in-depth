@@ -1,0 +1,21 @@
+{
+  "name": "07_how_to_use_images_in_react",
+  "version": "1.0.0",
+  "description": "📖 Chapters\r 00:00 - Introduction\r 00:45 - Go through the first project\r 01:18 - Setup the React Project\r 02:23 - Connect JS file\r 03:47 - Create 'root.render()' method\r 05:15 - Start the server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
