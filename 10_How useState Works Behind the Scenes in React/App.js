@@ -1,0 +1,14 @@
+import LeftArrow from "./assets/images/left-arrow.png"
+import AppleCounter from "./components/AppleCounter"
+import Counter from "./components/Counter"
+
+const App = () => {
+  return (
+    <div>
+      <Counter/>
+      {/* <AppleCounter /> */}
+    </div>
+  )
+}
+
+export default App
